@@ -6,7 +6,7 @@ This repository is for paper that I read. I divide those paper into many catergo
 
 ### Blockchain
 
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://git.dhimmel.com/bitcoin-whitepaper/)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://git.dhimmel.com/bitcoin-whitepaper/), 2008, Nakamoto
 
 ------
 
