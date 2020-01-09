@@ -16,4 +16,5 @@
 
 ### Deep Learning
 
-- 
+- [deep learning,](https://www.nature.com/articles/nature14539.pdf) 2015, Yann LeCun, Yoshua Bengio, Geoffrey Hinton
+
