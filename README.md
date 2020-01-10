@@ -8,6 +8,10 @@
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://git.dhimmel.com/bitcoin-whitepaper/), 2008, Nakamoto
 
+### smart contract
+
+- 
+
 ------
 
 ### Machine Learning
